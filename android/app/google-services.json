@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587865863453",
+    "project_id": "keejob-e4998",
+    "storage_bucket": "keejob-e4998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587865863453:android:c4452aa64c6eed9badddf4",
+        "android_client_info": {
+          "package_name": "com.keejob.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587865863453-3rp9i8rrmsl9gnl2j4v7dqnfeh1dule7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvGnlyYmuK58aW4dt6Wo4KQuddh7l9jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587865863453-3rp9i8rrmsl9gnl2j4v7dqnfeh1dule7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

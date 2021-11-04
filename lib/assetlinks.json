@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.keejob.mobile",
+      "sha256_cert_fingerprints": [
+        "43:64:9D:27:A3:C7:3F:4B:DF:BD:18:AE:54:53:FC:95:9A:B8:69:77:FF:F9:58:53:86:B1:0C:7D:81:F7:81:D2",
+        "64:63:FF:FB:A1:63:8E:64:CA:9B:11:E0:35:C1:D3:EC:8D:B9:0C:40:4E:75:79:A3:D1:A9:28:62:B1:DC:8B:CB"
+      ]
+    }
+  }
+]
